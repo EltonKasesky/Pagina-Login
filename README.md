@@ -1,23 +1,31 @@
-# Página de Login
+# Pagina de Login
 
-Este é um projeto simples de uma página de login desenvolvida utilizando apenas HTML e CSS. A página é projetada para ser minimalista e fácil de entender, servindo como uma base sólida para implementações mais complexas.
+## Descrição
+Este projeto é uma aplicação web desenvolvida para oferecer uma solução para uma pagina de login. Com uma interface intuitiva e amigável, A página é projetada para ser minimalista e fácil de entender, servindo como uma base sólida para implementações mais complexas.
 
-Desenvolvida com:
+## Demonstração
+![Resultado final do site](src/images/viewsite.png)
 
+## Instalação
+1. Clone este repositório: `git clone https://github.com/EltonKasesky/Pagina-Login.git`
+- Abra o arquivo `index.html` no seu navegador.
+
+2. Abra o link abaixo, e veja o site hospedado na Vercel
+- Link: `https://pagina-login-kasesky.vercel.app`
+
+## Funcionalidades
+1. Responvidade
+- Está aplicação web foi desenvolvida com arquitetura responsiva.
+
+2. UI/UX Figma
+- Foi utilizado a ferramenta figma para desenvolver o design deste site
+
+3. Tecnologias utilizadas
 - HTML
 - CSS
 
-Veja o projeto:
+## Contribuindo
+Contribuições são bem-vindas! Abra uma issue ou envie um pull request para sugerir melhorias, correções de bugs etc.
 
-Acesse o projeto utilizando o link abaixo:
-
-https://login-page-kf7w3uh54-eltonkaseskys-projects.vercel.app/
-
-Detalhes que fazem a diferença:
-
-Layout clean e intuitivo, direcionando o foco do usuário.
-Seções bem definidas, facilitando a navegação e a compreensão das informações.
-
-Observação:
-
-Sinta-se à vontade para adaptá-lo e usá-lo como base para seus próprios projetos.
+## Autor
+- [Elton Giglio Kasesky](https://github.com/EltonKasesky)
